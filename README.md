@@ -22,3 +22,10 @@ Software Engineering Team：Lv Yifan(吕逸凡）,Yang Chuting(杨楚婷),Zhang 
 **生成理念**
 
 * 基于原有想法交于AI工具进行文字渲染，在此基础上加以修改提交给AI生成图片。
+
+# 成员介绍
+
+**成员1**
+
+**成员2**
+-[成员介绍](./YangChuTing.md)
