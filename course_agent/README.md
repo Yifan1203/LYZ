@@ -8,4 +8,4 @@
 - 数据持久化存储
 
 ## 运行
-python main.py
+python [main.py](./main.py)
