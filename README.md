@@ -26,6 +26,10 @@ Software Engineering Team：Lv Yifan(吕逸凡）,Yang Chuting(杨楚婷),Zhang 
 # 成员介绍
 
 **成员1**
--[吕逸凡](./member/Lv Yifan.md)
+-[吕逸凡](./member/LvYifan.md)
+
 **成员2**
--[杨楚婷](./YangChuTing.md)
+-[杨楚婷](./member/YangChuTing.md)
+
+**成员3**
+-[张鑫艳】
