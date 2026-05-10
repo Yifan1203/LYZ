@@ -32,4 +32,4 @@ Software Engineering Team：Lv Yifan(吕逸凡）,Yang Chuting(杨楚婷),Zhang 
 -[杨楚婷](./member/YangChuTing.md)
 
 **成员3**
--[张鑫艳】
+-[张鑫艳](./member/ZhangXinYan.md)
